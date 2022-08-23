@@ -1,6 +1,6 @@
-# finalprojectgdsc
+# Notes App using Flutter
 
-A new Flutter project.
+A new Flutter project for Google Developer Student Club.
 
 ## Getting Started
 
